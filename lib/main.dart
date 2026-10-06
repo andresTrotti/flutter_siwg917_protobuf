@@ -32,6 +32,8 @@ class MyHomePage extends StatefulWidget {
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
+//changes on developer-2 
+
 class _MyHomePageState extends State<MyHomePage> {
   // Instancia de la librería BLE y del controlador Si917
   final FlutterReactiveBle _ble = FlutterReactiveBle();
